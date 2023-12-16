@@ -1,1 +1,1 @@
-# vgsales_database_analysis
+# vgsales-database-analysis
